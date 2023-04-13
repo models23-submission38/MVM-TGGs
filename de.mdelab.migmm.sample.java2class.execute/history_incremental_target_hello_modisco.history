@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="ASCII"?>
+<history:History xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:de.hpi.sam.classDiagram_adapted="http:///de/hpi/sam/classDiagram.ecore_adapted" xmlns:history="http://www.mdelab.de/migmm/history/1.0" xmlns:timing="http://www.mdelab.de/migmm/history/test/timing/1.0">
+  <validIn xsi:type="timing:DAGInterval">
+    <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+  </validIn>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted" outEdges="//@ownedElements.2 //@ownedElements.5 //@ownedElements.8 //@ownedElements.11 //@ownedElements.14 //@ownedElements.17 //@ownedElements.34 //@ownedElements.38 //@ownedElements.24 //@ownedElements.36 //@ownedElements.20 //@ownedElements.39 //@ownedElements.56 //@ownedElements.45 //@ownedElements.54 //@ownedElements.47 //@ownedElements.46 //@ownedElements.61 //@ownedElements.78 //@ownedElements.82 //@ownedElements.68 //@ownedElements.80 //@ownedElements.64 //@ownedElements.97 //@ownedElements.101 //@ownedElements.87 //@ownedElements.99 //@ownedElements.83" name="//@ownedElements.1" elements="//@ownedElements.2 //@ownedElements.5 //@ownedElements.8 //@ownedElements.11 //@ownedElements.14 //@ownedElements.17 //@ownedElements.34 //@ownedElements.36 //@ownedElements.38 //@ownedElements.24 //@ownedElements.20 //@ownedElements.39 //@ownedElements.47 //@ownedElements.56 //@ownedElements.46 //@ownedElements.45 //@ownedElements.54 //@ownedElements.61 //@ownedElements.78 //@ownedElements.80 //@ownedElements.82 //@ownedElements.68 //@ownedElements.64 //@ownedElements.97 //@ownedElements.99 //@ownedElements.101 //@ownedElements.87 //@ownedElements.83">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="de.mdelab.migmm.sample.git.hello">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.4" elements="//@ownedElements.4">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="OutputStream">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted" inEdges="//@ownedElements.2" name="//@ownedElements.3">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.7" elements="//@ownedElements.7">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="System">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted" inEdges="//@ownedElements.5" name="//@ownedElements.6">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.10" elements="//@ownedElements.10">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="PrintStream">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted" inEdges="//@ownedElements.8" name="//@ownedElements.9">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.13" elements="//@ownedElements.13">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="String">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted" inEdges="//@ownedElements.11" outEdges="//@ownedElements.29 //@ownedElements.50 //@ownedElements.92" name="//@ownedElements.12" roles="//@ownedElements.29 //@ownedElements.50 //@ownedElements.92">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.16" elements="//@ownedElements.16">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="FilterOutputStream">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted" inEdges="//@ownedElements.14" name="//@ownedElements.15">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.19" elements="//@ownedElements.19">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="HelloWorld">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted" inEdges="//@ownedElements.17" outEdges="//@ownedElements.35 //@ownedElements.79" name="//@ownedElements.18" roles="//@ownedElements.35 //@ownedElements.79">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.37" elements="//@ownedElements.37">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted_cardItem" edgeSource="//@ownedElements.37" edgeTarget="//@ownedElements.31" card="//@ownedElements.31">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted_rightRoleItem" edgeSource="//@ownedElements.26" edgeTarget="//@ownedElements.27" rightRole="//@ownedElements.27">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted_cardStringValue" value="0..*">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.26" elements="//@ownedElements.26">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted_cardStringValue" value="0..1">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted" inEdges="//@ownedElements.24" outEdges="//@ownedElements.33 //@ownedElements.22" name="//@ownedElements.30" leftRole="//@ownedElements.33" rightRole="//@ownedElements.22">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted" inEdges="//@ownedElements.29 //@ownedElements.22 //@ownedElements.36" outEdges="//@ownedElements.28" card="//@ownedElements.28">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted_cardItem" edgeSource="//@ownedElements.27" edgeTarget="//@ownedElements.32" card="//@ownedElements.32">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted_rolesItem" edgeSource="//@ownedElements.13" edgeTarget="//@ownedElements.27" roles="//@ownedElements.27">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="greeting">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted" inEdges="//@ownedElements.38 //@ownedElements.21" cardString="//@ownedElements.23">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted" inEdges="//@ownedElements.28 //@ownedElements.34" cardString="//@ownedElements.25">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted_leftRoleItem" edgeSource="//@ownedElements.26" edgeTarget="//@ownedElements.37" leftRole="//@ownedElements.37">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.32" elements="//@ownedElements.32">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted_rolesItem" edgeSource="//@ownedElements.19" edgeTarget="//@ownedElements.37" roles="//@ownedElements.37">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.27" elements="//@ownedElements.27">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted" inEdges="//@ownedElements.20 //@ownedElements.35 //@ownedElements.33" outEdges="//@ownedElements.21" card="//@ownedElements.21">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.31" elements="//@ownedElements.31">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.0"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+      <dts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.40" elements="//@ownedElements.40">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted" inEdges="//@ownedElements.39" outEdges="//@ownedElements.44" name="//@ownedElements.41" roles="//@ownedElements.44">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="GreetingPrinter">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted" inEdges="//@ownedElements.55 //@ownedElements.54" cardString="//@ownedElements.58">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="greeting">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted_rolesItem" edgeSource="//@ownedElements.40" edgeTarget="//@ownedElements.57" roles="//@ownedElements.57">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.57" elements="//@ownedElements.57">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.51" elements="//@ownedElements.51">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.48" elements="//@ownedElements.48">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted" inEdges="//@ownedElements.47" outEdges="//@ownedElements.49 //@ownedElements.52" name="//@ownedElements.43" leftRole="//@ownedElements.52" rightRole="//@ownedElements.49">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted_rightRoleItem" edgeSource="//@ownedElements.48" edgeTarget="//@ownedElements.51" rightRole="//@ownedElements.51">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted_rolesItem" edgeSource="//@ownedElements.13" edgeTarget="//@ownedElements.51" roles="//@ownedElements.51">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted" inEdges="//@ownedElements.49 //@ownedElements.50 //@ownedElements.46" outEdges="//@ownedElements.60" card="//@ownedElements.60">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted_leftRoleItem" edgeSource="//@ownedElements.48" edgeTarget="//@ownedElements.57" leftRole="//@ownedElements.57">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted" inEdges="//@ownedElements.56 //@ownedElements.60" cardString="//@ownedElements.59">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.42" elements="//@ownedElements.42">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted_cardItem" edgeSource="//@ownedElements.57" edgeTarget="//@ownedElements.42" card="//@ownedElements.42">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.53" elements="//@ownedElements.53">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted" inEdges="//@ownedElements.44 //@ownedElements.45 //@ownedElements.52" outEdges="//@ownedElements.55" card="//@ownedElements.55">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted_cardStringValue" value="0..*">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted_cardStringValue" value="0..1">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted_cardItem" edgeSource="//@ownedElements.51" edgeTarget="//@ownedElements.53" card="//@ownedElements.53">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.1"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.62" elements="//@ownedElements.62">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted" inEdges="//@ownedElements.61" outEdges="//@ownedElements.73 //@ownedElements.98" name="//@ownedElements.63" roles="//@ownedElements.73 //@ownedElements.98">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="Greeter">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.81" elements="//@ownedElements.81">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted_cardItem" edgeSource="//@ownedElements.81" edgeTarget="//@ownedElements.75" card="//@ownedElements.75">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted_rightRoleItem" edgeSource="//@ownedElements.70" edgeTarget="//@ownedElements.71" rightRole="//@ownedElements.71">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted_cardStringValue" value="0..*">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.70" elements="//@ownedElements.70">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted_cardStringValue" value="0..1">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted" inEdges="//@ownedElements.68" outEdges="//@ownedElements.77 //@ownedElements.66" name="//@ownedElements.74" leftRole="//@ownedElements.77" rightRole="//@ownedElements.66">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted" inEdges="//@ownedElements.73 //@ownedElements.66 //@ownedElements.80" outEdges="//@ownedElements.72" card="//@ownedElements.72">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted_cardItem" edgeSource="//@ownedElements.71" edgeTarget="//@ownedElements.76" card="//@ownedElements.76">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted_rolesItem" edgeSource="//@ownedElements.62" edgeTarget="//@ownedElements.71" roles="//@ownedElements.71">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="greeter">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted" inEdges="//@ownedElements.82 //@ownedElements.65" cardString="//@ownedElements.67">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted" inEdges="//@ownedElements.72 //@ownedElements.78" cardString="//@ownedElements.69">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted_leftRoleItem" edgeSource="//@ownedElements.70" edgeTarget="//@ownedElements.81" leftRole="//@ownedElements.81">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.76" elements="//@ownedElements.76">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted_rolesItem" edgeSource="//@ownedElements.19" edgeTarget="//@ownedElements.81" roles="//@ownedElements.81">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.71" elements="//@ownedElements.71">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted" inEdges="//@ownedElements.64 //@ownedElements.79 //@ownedElements.77" outEdges="//@ownedElements.65" card="//@ownedElements.65">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.75" elements="//@ownedElements.75">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.100" elements="//@ownedElements.100">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted_cardItem" edgeSource="//@ownedElements.100" edgeTarget="//@ownedElements.94" card="//@ownedElements.94">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted_rightRoleItem" edgeSource="//@ownedElements.89" edgeTarget="//@ownedElements.90" rightRole="//@ownedElements.90">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted_cardStringValue" value="0..*">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.89" elements="//@ownedElements.89">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted_cardStringValue" value="0..1">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted" inEdges="//@ownedElements.87" outEdges="//@ownedElements.96 //@ownedElements.85" name="//@ownedElements.93" leftRole="//@ownedElements.96" rightRole="//@ownedElements.85">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted" inEdges="//@ownedElements.92 //@ownedElements.85 //@ownedElements.99" outEdges="//@ownedElements.91" card="//@ownedElements.91">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted_cardItem" edgeSource="//@ownedElements.90" edgeTarget="//@ownedElements.95" card="//@ownedElements.95">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted_rolesItem" edgeSource="//@ownedElements.13" edgeTarget="//@ownedElements.90" roles="//@ownedElements.90">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLElement_adapted_nameValue" value="greeting">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted" inEdges="//@ownedElements.101 //@ownedElements.84" cardString="//@ownedElements.86">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLCardinality_adapted" inEdges="//@ownedElements.91 //@ownedElements.97" cardString="//@ownedElements.88">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLAssoc_adapted_leftRoleItem" edgeSource="//@ownedElements.89" edgeTarget="//@ownedElements.100" leftRole="//@ownedElements.100">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.95" elements="//@ownedElements.95">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClass_adapted_rolesItem" edgeSource="//@ownedElements.62" edgeTarget="//@ownedElements.100" roles="//@ownedElements.100">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.90" elements="//@ownedElements.90">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLRole_adapted" inEdges="//@ownedElements.83 //@ownedElements.98 //@ownedElements.96" outEdges="//@ownedElements.84" card="//@ownedElements.84">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+  <ownedElements xsi:type="de.hpi.sam.classDiagram_adapted:UMLClassDiagram_adapted_elementsItem" edgeSource="//@ownedElements.0" edgeTarget="//@ownedElements.94" elements="//@ownedElements.94">
+    <validIn xsi:type="timing:DAGInterval">
+      <cts href="history_incremental_source_hello_modisco.history#//@ownedTimingUnits.2"/>
+    </validIn>
+  </ownedElements>
+</history:History>

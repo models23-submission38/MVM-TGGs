@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mlsdm="http://www.mdelab.de/mlsdm/1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmi:id="_8RKnINR_Ee2i9_eYrbxqzw" type="Mlsdm" measurementUnit="Pixel">
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_8RKnIdR_Ee2i9_eYrbxqzw"/>
+  <element xmi:type="mlsdm:Activity" href="java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_transform_backward.mlsdm#_tORPsNR_Ee2i9_eYrbxqzw"/>
+</notation:Diagram>

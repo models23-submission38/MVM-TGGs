@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ASCII"?>
+<java2class_adapted.generated:java2class_adaptedOperationalTGG xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java2class_adapted.generated="http://www.mdelab.de/mltgg/java2class/adapted/1.0/generated" tggID="java2class_adapted">
+  <operationalAxiomGroup xsi:type="java2class_adapted.generated:History2History2" ruleGroupID="History2History2">
+    <axioms xsi:type="java2class_adapted.generated:History2History2_History2History" ruleID="History2History">
+      <addElementActivity href="modelGeneration/History2History2_History2History_addElement.mlsdm#_tKTbL9R_Ee2i9_eYrbxqzw"/>
+      <changeAttributeActivity href="modelGeneration/History2History2_History2History_changeAttributeValues.mlsdm#_tKaDYNR_Ee2i9_eYrbxqzw"/>
+      <transformForwardActivity href="modelTransformation/History2History2_History2History_transform_forward.mlsdm#_tKcfoNR_Ee2i9_eYrbxqzw"/>
+      <transformMappingActivity href="modelTransformation/History2History2_History2History_transform_mapping.mlsdm#_tKj0YNR_Ee2i9_eYrbxqzw"/>
+      <transformBackwardActivity href="modelTransformation/History2History2_History2History_transform_backward.mlsdm#_tKnewNR_Ee2i9_eYrbxqzw"/>
+      <synchronizeForwardActivity href="modelSynchronization/History2History2_History2History_synchronize_forward.mlsdm#_tKqiENR_Ee2i9_eYrbxqzw"/>
+      <synchronizeBackwardActivity href="modelSynchronization/History2History2_History2History_synchronize_backward.mlsdm#_tKx20NR_Ee2i9_eYrbxqzw"/>
+    </axioms>
+  </operationalAxiomGroup>
+  <operationalRuleGroups xsi:type="java2class_adapted.generated:java2classAxiom_adapted" ruleGroupID="java2classAxiom_adapted">
+    <rules xsi:type="java2class_adapted.generated:java2classAxiom_adapted_axiom_adapted" ruleID="axiom_adapted">
+      <preferredInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//History2History"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//History2History"/>
+      <addElementActivity href="modelGeneration/java2classAxiom_adapted_axiom_adapted_addElement.mlsdm#_tK2IQNR_Ee2i9_eYrbxqzw"/>
+      <moveElementActivity href="modelGeneration/java2classAxiom_adapted_axiom_adapted_moveElement.mlsdm#_tK5LkNR_Ee2i9_eYrbxqzw"/>
+      <changeAttributeActivity href="modelGeneration/java2classAxiom_adapted_axiom_adapted_changeAttributeValues.mlsdm#_tLEKsNR_Ee2i9_eYrbxqzw"/>
+      <transformForwardActivity href="modelTransformation/java2classAxiom_adapted_axiom_adapted_transform_forward.mlsdm#_tLH1ENR_Ee2i9_eYrbxqzw"/>
+      <transformMappingActivity href="modelTransformation/java2classAxiom_adapted_axiom_adapted_transform_mapping.mlsdm#_tLMtkNR_Ee2i9_eYrbxqzw"/>
+      <transformBackwardActivity href="modelTransformation/java2classAxiom_adapted_axiom_adapted_transform_backward.mlsdm#_tLQ_ANR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckForwardActivity href="conflictCheck/java2classAxiom_adapted_axiom_adapted_conflictCheck_forward.mlsdm#_tLVQcNR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckMappingActivity href="conflictCheck/java2classAxiom_adapted_axiom_adapted_conflictCheck_mapping.mlsdm#_tLclMNR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckBackwardActivity href="conflictCheck/java2classAxiom_adapted_axiom_adapted_conflictCheck_backward.mlsdm#_tLg2oNR_Ee2i9_eYrbxqzw"/>
+      <synchronizeForwardActivity href="modelSynchronization/java2classAxiom_adapted_axiom_adapted_synchronize_forward.mlsdm#_tLj58NR_Ee2i9_eYrbxqzw"/>
+      <synchronizeBackwardActivity href="modelSynchronization/java2classAxiom_adapted_axiom_adapted_synchronize_backward.mlsdm#_tLoLYNR_Ee2i9_eYrbxqzw"/>
+      <repairForwardActivity href="modelSynchronization/java2classAxiom_adapted_axiom_adapted_repair_forward.mlsdm#_tLtD4NR_Ee2i9_eYrbxqzw"/>
+      <repairBackwardActivity href="modelSynchronization/java2classAxiom_adapted_axiom_adapted_repair_backward.mlsdm#_tLx8YNR_Ee2i9_eYrbxqzw"/>
+    </rules>
+  </operationalRuleGroups>
+  <operationalRuleGroups xsi:type="java2class_adapted.generated:java2classPkg_adapted" ruleGroupID="java2classPkg_adapted">
+    <rules xsi:type="java2class_adapted.generated:java2classPkg_adapted_pkg_adapted" ruleID="pkg_adapted">
+      <preferredInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrAxiom_adapted"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrAxiom_adapted"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//History2History"/>
+      <addElementActivity href="modelGeneration/java2classPkg_adapted_pkg_adapted_addElement.mlsdm#_tL3b8NR_Ee2i9_eYrbxqzw"/>
+      <moveElementActivity href="modelGeneration/java2classPkg_adapted_pkg_adapted_moveElement.mlsdm#_tL54MNR_Ee2i9_eYrbxqzw"/>
+      <changeAttributeActivity href="modelGeneration/java2classPkg_adapted_pkg_adapted_changeAttributeValues.mlsdm#_tL9ikNR_Ee2i9_eYrbxqzw"/>
+      <transformForwardActivity href="modelTransformation/java2classPkg_adapted_pkg_adapted_transform_forward.mlsdm#_tL_-0NR_Ee2i9_eYrbxqzw"/>
+      <transformMappingActivity href="modelTransformation/java2classPkg_adapted_pkg_adapted_transform_mapping.mlsdm#_tME3UNR_Ee2i9_eYrbxqzw"/>
+      <transformBackwardActivity href="modelTransformation/java2classPkg_adapted_pkg_adapted_transform_backward.mlsdm#_tMKW4NR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckForwardActivity href="conflictCheck/java2classPkg_adapted_pkg_adapted_conflictCheck_forward.mlsdm#_tMPPYNR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckMappingActivity href="conflictCheck/java2classPkg_adapted_pkg_adapted_conflictCheck_mapping.mlsdm#_tMdR0NR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckBackwardActivity href="conflictCheck/java2classPkg_adapted_pkg_adapted_conflictCheck_backward.mlsdm#_tMg8MNR_Ee2i9_eYrbxqzw"/>
+      <synchronizeForwardActivity href="modelSynchronization/java2classPkg_adapted_pkg_adapted_synchronize_forward.mlsdm#_tMkmkNR_Ee2i9_eYrbxqzw"/>
+      <synchronizeBackwardActivity href="modelSynchronization/java2classPkg_adapted_pkg_adapted_synchronize_backward.mlsdm#_tMpfENR_Ee2i9_eYrbxqzw"/>
+      <repairForwardActivity href="modelSynchronization/java2classPkg_adapted_pkg_adapted_repair_forward.mlsdm#_tMtJcNR_Ee2i9_eYrbxqzw"/>
+      <repairBackwardActivity href="modelSynchronization/java2classPkg_adapted_pkg_adapted_repair_backward.mlsdm#_tMypANR_Ee2i9_eYrbxqzw"/>
+    </rules>
+  </operationalRuleGroups>
+  <operationalRuleGroups xsi:type="java2class_adapted.generated:java2classChildPkg_adapted" ruleGroupID="java2classChildPkg_adapted">
+    <rules xsi:type="java2class_adapted.generated:java2classChildPkg_adapted_childPkg_adapted" ruleID="childPkg_adapted">
+      <preferredInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrAxiom_adapted"/>
+      <preferredInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrPkg_adapted"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrPkg_adapted"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrAxiom_adapted"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//History2History"/>
+      <addElementActivity href="modelGeneration/java2classChildPkg_adapted_childPkg_adapted_addElement.mlsdm#_tM1sUNR_Ee2i9_eYrbxqzw"/>
+      <moveElementActivity href="modelGeneration/java2classChildPkg_adapted_childPkg_adapted_moveElement.mlsdm#_tM4voNR_Ee2i9_eYrbxqzw"/>
+      <changeAttributeActivity href="modelGeneration/java2classChildPkg_adapted_childPkg_adapted_changeAttributeValues.mlsdm#_tM9oINR_Ee2i9_eYrbxqzw"/>
+      <transformForwardActivity href="modelTransformation/java2classChildPkg_adapted_childPkg_adapted_transform_forward.mlsdm#_tNArcNR_Ee2i9_eYrbxqzw"/>
+      <transformMappingActivity href="modelTransformation/java2classChildPkg_adapted_childPkg_adapted_transform_mapping.mlsdm#_tNInQNR_Ee2i9_eYrbxqzw"/>
+      <transformBackwardActivity href="modelTransformation/java2classChildPkg_adapted_childPkg_adapted_transform_backward.mlsdm#_tNPU8NR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckForwardActivity href="conflictCheck/java2classChildPkg_adapted_childPkg_adapted_conflictCheck_forward.mlsdm#_tNU0gNR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckMappingActivity href="conflictCheck/java2classChildPkg_adapted_childPkg_adapted_conflictCheck_mapping.mlsdm#_tNZF8NR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckBackwardActivity href="conflictCheck/java2classChildPkg_adapted_childPkg_adapted_conflictCheck_backward.mlsdm#_tNdXYNR_Ee2i9_eYrbxqzw"/>
+      <synchronizeForwardActivity href="modelSynchronization/java2classChildPkg_adapted_childPkg_adapted_synchronize_forward.mlsdm#_tNiP4NR_Ee2i9_eYrbxqzw"/>
+      <synchronizeBackwardActivity href="modelSynchronization/java2classChildPkg_adapted_childPkg_adapted_synchronize_backward.mlsdm#_tNl6QNR_Ee2i9_eYrbxqzw"/>
+      <repairForwardActivity href="modelSynchronization/java2classChildPkg_adapted_childPkg_adapted_repair_forward.mlsdm#_tNqLsNR_Ee2i9_eYrbxqzw"/>
+      <repairBackwardActivity href="modelSynchronization/java2classChildPkg_adapted_childPkg_adapted_repair_backward.mlsdm#_tNvrQNR_Ee2i9_eYrbxqzw"/>
+    </rules>
+  </operationalRuleGroups>
+  <operationalRuleGroups xsi:type="java2class_adapted.generated:java2classClassDeclaration2Class_adapted" ruleGroupID="java2classClassDeclaration2Class_adapted">
+    <rules xsi:type="java2class_adapted.generated:java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted" ruleID="java2classClassDeclaration2Class_adapted">
+      <preferredInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrPkg_adapted"/>
+      <preferredInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrAxiom_adapted"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrAxiom_adapted"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrPkg_adapted"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//History2History"/>
+      <addElementActivity href="modelGeneration/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_addElement.mlsdm#_tNyHgNR_Ee2i9_eYrbxqzw"/>
+      <moveElementActivity href="modelGeneration/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_moveElement.mlsdm#_tN1x4NR_Ee2i9_eYrbxqzw"/>
+      <changeAttributeActivity href="modelGeneration/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_changeAttributeValues.mlsdm#_tN6qYNR_Ee2i9_eYrbxqzw"/>
+      <transformForwardActivity href="modelTransformation/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_transform_forward.mlsdm#_tN9tsNR_Ee2i9_eYrbxqzw"/>
+      <transformMappingActivity href="modelTransformation/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_transform_mapping.mlsdm#_tOGQkNR_Ee2i9_eYrbxqzw"/>
+      <transformBackwardActivity href="modelTransformation/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_transform_backward.mlsdm#_tORPsNR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckForwardActivity href="conflictCheck/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_conflictCheck_forward.mlsdm#_tOZLgNR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckMappingActivity href="conflictCheck/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_conflictCheck_mapping.mlsdm#_tOdc8NR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckBackwardActivity href="conflictCheck/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_conflictCheck_backward.mlsdm#_tOjjkNR_Ee2i9_eYrbxqzw"/>
+      <synchronizeForwardActivity href="modelSynchronization/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_synchronize_forward.mlsdm#_tOocENR_Ee2i9_eYrbxqzw"/>
+      <synchronizeBackwardActivity href="modelSynchronization/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_synchronize_backward.mlsdm#_tOtUkNR_Ee2i9_eYrbxqzw"/>
+      <repairForwardActivity href="modelSynchronization/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_repair_forward.mlsdm#_tOxmANR_Ee2i9_eYrbxqzw"/>
+      <repairBackwardActivity href="modelSynchronization/java2classClassDeclaration2Class_adapted_java2classClassDeclaration2Class_adapted_repair_backward.mlsdm#_tO4TsNR_Ee2i9_eYrbxqzw"/>
+    </rules>
+  </operationalRuleGroups>
+  <operationalRuleGroups xsi:type="java2class_adapted.generated:java2classField2Association_adapted" ruleGroupID="java2classField2Association_adapted">
+    <rules xsi:type="java2class_adapted.generated:java2classField2Association_adapted_java2classField2Association_adapted" ruleID="java2classField2Association_adapted">
+      <preferredInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrAxiom_adapted"/>
+      <preferredInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrClass_adapted"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrClass_adapted"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//CorrAxiom_adapted"/>
+      <allInputCorrNodeTypes href="http://www.mdelab.de/mltgg/java2class/adapted/1.0#//History2History"/>
+      <addElementActivity href="modelGeneration/java2classField2Association_adapted_java2classField2Association_adapted_addElement.mlsdm#_tPA2kNR_Ee2i9_eYrbxqzw"/>
+      <moveElementActivity href="modelGeneration/java2classField2Association_adapted_java2classField2Association_adapted_moveElement.mlsdm#_tPFvENR_Ee2i9_eYrbxqzw"/>
+      <changeAttributeActivity href="modelGeneration/java2classField2Association_adapted_java2classField2Association_adapted_changeAttributeValues.mlsdm#_tPPgENR_Ee2i9_eYrbxqzw"/>
+      <transformForwardActivity href="modelTransformation/java2classField2Association_adapted_java2classField2Association_adapted_transform_forward.mlsdm#_tPYC8NR_Ee2i9_eYrbxqzw"/>
+      <transformMappingActivity href="modelTransformation/java2classField2Association_adapted_java2classField2Association_adapted_transform_mapping.mlsdm#_tP7ckNR_Ee2i9_eYrbxqzw"/>
+      <transformBackwardActivity href="modelTransformation/java2classField2Association_adapted_java2classField2Association_adapted_transform_backward.mlsdm#_tQdBANR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckForwardActivity href="conflictCheck/java2classField2Association_adapted_java2classField2Association_adapted_conflictCheck_forward.mlsdm#_tQ6UANR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckMappingActivity href="conflictCheck/java2classField2Association_adapted_java2classField2Association_adapted_conflictCheck_mapping.mlsdm#_tRC24NR_Ee2i9_eYrbxqzw"/>
+      <conflictCheckBackwardActivity href="conflictCheck/java2classField2Association_adapted_java2classField2Association_adapted_conflictCheck_backward.mlsdm#_tRMA0NR_Ee2i9_eYrbxqzw"/>
+      <synchronizeForwardActivity href="modelSynchronization/java2classField2Association_adapted_java2classField2Association_adapted_synchronize_forward.mlsdm#_tRVx0NR_Ee2i9_eYrbxqzw"/>
+      <synchronizeBackwardActivity href="modelSynchronization/java2classField2Association_adapted_java2classField2Association_adapted_synchronize_backward.mlsdm#_tRb4cNR_Ee2i9_eYrbxqzw"/>
+      <repairForwardActivity href="modelSynchronization/java2classField2Association_adapted_java2classField2Association_adapted_repair_forward.mlsdm#_tRhYANR_Ee2i9_eYrbxqzw"/>
+      <repairBackwardActivity href="modelSynchronization/java2classField2Association_adapted_java2classField2Association_adapted_repair_backward.mlsdm#_tR39UNR_Ee2i9_eYrbxqzw"/>
+    </rules>
+  </operationalRuleGroups>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//Model_adapted/name"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLElement_adapted/name"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//Model_adapted/ownedElements"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//Model_adapted_ownedElementsItem/ownedElements"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//Package_adapted/ownedPackages"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//Package_adapted_ownedPackagesItem/ownedPackages"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//NamedElement_adapted/name"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//Package_adapted/ownedElements"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//Package_adapted_ownedElementsItem/ownedElements"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLClassDiagram_adapted/elements"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLClassDiagram_adapted_elementsItem/elements"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//AbstractTypeDeclaration_adapted/bodyDeclarations"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//AbstractTypeDeclaration_adapted_bodyDeclarationsItem/bodyDeclarations"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//AbstractVariablesContainer_adapted/type"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//AbstractVariablesContainer_adapted_typeItem/type"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//TypeAccess_adapted/type"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//TypeAccess_adapted_typeItem/type"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//AbstractVariablesContainer_adapted/fragments"/>
+  <unidirectionalReferences href="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java_adapted#//AbstractVariablesContainer_adapted_fragmentsItem/fragments"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLCardinality_adapted/cardString"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLClass_adapted/roles"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLClass_adapted_rolesItem/roles"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLAssoc_adapted/leftRole"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLAssoc_adapted_leftRoleItem/leftRole"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLAssoc_adapted/rightRole"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLAssoc_adapted_rightRoleItem/rightRole"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLRole_adapted/card"/>
+  <unidirectionalReferences href="http:///de/hpi/sam/classDiagram.ecore_adapted#//UMLRole_adapted_cardItem/card"/>
+</java2class_adapted.generated:java2class_adaptedOperationalTGG>

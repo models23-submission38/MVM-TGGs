@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mltgg.ruleDependencyGraph="http://www.mdelab.de/mltgg/ruleDependencyGraph/1.0">
+  <mltgg.ruleDependencyGraph:RuleDependencyGraph uuid="_si5-gNR_Ee2i9_eYrbxqzw">
+    <tggRule href="../model/java2class_adapted.mltgg#_caC2JUhkEeyajeTATeOoSg"/>
+    <correspondenceNodeDependencies uuid="_si5-gdR_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_caC2KkhkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-gtR_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cZ66QEhkEeyajeTATeOoSg"/>
+        <ruleProductionParameters uuid="_si5-g9R_Ee2i9_eYrbxqzw" value="_si5-htR_Ee2i9_eYrbxqzw">
+          <correspondenceNode href="../model/java2class_adapted.mltgg#_caC2F0hkEeyajeTATeOoSg"/>
+        </ruleProductionParameters>
+      </producedBy>
+      <producedBy uuid="_si5-hNR_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cZzlhUhkEeyajeTATeOoSg"/>
+        <ruleProductionParameters uuid="_si5-hdR_Ee2i9_eYrbxqzw" value="_si5-htR_Ee2i9_eYrbxqzw">
+          <correspondenceNode href="../model/java2class_adapted.mltgg#_cZ6TN0hkEeyajeTATeOoSg"/>
+        </ruleProductionParameters>
+      </producedBy>
+    </correspondenceNodeDependencies>
+    <correspondenceNodeDependencies uuid="_si5-htR_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_caceskhkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-h9R_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cXUSMUhkEeyajeTATeOoSg"/>
+      </producedBy>
+    </correspondenceNodeDependencies>
+    <correspondenceNodeDependencies uuid="_si5-iNR_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_caC2KUhkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-idR_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cYBc0EhkEeyajeTATeOoSg"/>
+        <ruleProductionParameters uuid="_si5-itR_Ee2i9_eYrbxqzw" value="_si5-htR_Ee2i9_eYrbxqzw">
+          <correspondenceNode href="../model/java2class_adapted.mltgg#_cZy-cUhkEeyajeTATeOoSg"/>
+        </ruleProductionParameters>
+      </producedBy>
+    </correspondenceNodeDependencies>
+  </mltgg.ruleDependencyGraph:RuleDependencyGraph>
+  <mltgg.ruleDependencyGraph:RuleDependencyGraph uuid="_si5-i9R_Ee2i9_eYrbxqzw">
+    <tggRule href="../model/java2class_adapted.mltgg#_cZ66QEhkEeyajeTATeOoSg"/>
+    <correspondenceNodeDependencies uuid="_si5-jNR_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_cZ66REhkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-jdR_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cZzlhUhkEeyajeTATeOoSg"/>
+        <ruleProductionParameters uuid="_si5-jtR_Ee2i9_eYrbxqzw" value="_si5-lNR_Ee2i9_eYrbxqzw">
+          <correspondenceNode href="../model/java2class_adapted.mltgg#_cZ6TN0hkEeyajeTATeOoSg"/>
+        </ruleProductionParameters>
+      </producedBy>
+      <producedBy uuid="_si5-j9R_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cZ66QEhkEeyajeTATeOoSg"/>
+        <ruleProductionParameters uuid="_si5-kNR_Ee2i9_eYrbxqzw" value="_si5-lNR_Ee2i9_eYrbxqzw">
+          <correspondenceNode href="../model/java2class_adapted.mltgg#_caC2F0hkEeyajeTATeOoSg"/>
+        </ruleProductionParameters>
+      </producedBy>
+    </correspondenceNodeDependencies>
+    <correspondenceNodeDependencies uuid="_si5-kdR_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_cZ66RkhkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-ktR_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cYBc0EhkEeyajeTATeOoSg"/>
+        <ruleProductionParameters uuid="_si5-k9R_Ee2i9_eYrbxqzw" value="_si5-lNR_Ee2i9_eYrbxqzw">
+          <correspondenceNode href="../model/java2class_adapted.mltgg#_cZy-cUhkEeyajeTATeOoSg"/>
+        </ruleProductionParameters>
+      </producedBy>
+    </correspondenceNodeDependencies>
+    <correspondenceNodeDependencies uuid="_si5-lNR_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_caC2F0hkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-ldR_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cXUSMUhkEeyajeTATeOoSg"/>
+      </producedBy>
+    </correspondenceNodeDependencies>
+  </mltgg.ruleDependencyGraph:RuleDependencyGraph>
+  <mltgg.ruleDependencyGraph:RuleDependencyGraph uuid="_si5-ltR_Ee2i9_eYrbxqzw">
+    <tggRule href="../model/java2class_adapted.mltgg#_caceyEhkEeyajeTATeOoSg"/>
+    <correspondenceNodeDependencies uuid="_si5-l9R_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_cacez0hkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-mNR_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cYBc0EhkEeyajeTATeOoSg"/>
+        <ruleProductionParameters uuid="_si5-mdR_Ee2i9_eYrbxqzw" value="_si5-ndR_Ee2i9_eYrbxqzw">
+          <correspondenceNode href="../model/java2class_adapted.mltgg#_cZy-cUhkEeyajeTATeOoSg"/>
+        </ruleProductionParameters>
+      </producedBy>
+    </correspondenceNodeDependencies>
+    <correspondenceNodeDependencies uuid="_si5-mtR_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_cacezUhkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-m9R_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_caC2JUhkEeyajeTATeOoSg"/>
+        <ruleProductionParameters uuid="_si5-nNR_Ee2i9_eYrbxqzw" value="_si5-ndR_Ee2i9_eYrbxqzw">
+          <correspondenceNode href="../model/java2class_adapted.mltgg#_caceskhkEeyajeTATeOoSg"/>
+        </ruleProductionParameters>
+      </producedBy>
+    </correspondenceNodeDependencies>
+    <correspondenceNodeDependencies uuid="_si5-ndR_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_cclzwUhkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-ntR_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cXUSMUhkEeyajeTATeOoSg"/>
+      </producedBy>
+    </correspondenceNodeDependencies>
+    <correspondenceNodeDependencies uuid="_si5-n9R_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_cacezEhkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-oNR_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_caC2JUhkEeyajeTATeOoSg"/>
+        <ruleProductionParameters uuid="_si5-odR_Ee2i9_eYrbxqzw" value="_si5-ndR_Ee2i9_eYrbxqzw">
+          <correspondenceNode href="../model/java2class_adapted.mltgg#_caceskhkEeyajeTATeOoSg"/>
+        </ruleProductionParameters>
+      </producedBy>
+    </correspondenceNodeDependencies>
+  </mltgg.ruleDependencyGraph:RuleDependencyGraph>
+  <mltgg.ruleDependencyGraph:RuleDependencyGraph uuid="_si5-otR_Ee2i9_eYrbxqzw">
+    <tggRule href="../model/java2class_adapted.mltgg#_cZzlhUhkEeyajeTATeOoSg"/>
+    <correspondenceNodeDependencies uuid="_si5-o9R_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_cZzliUhkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-pNR_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cYBc0EhkEeyajeTATeOoSg"/>
+        <ruleProductionParameters uuid="_si5-pdR_Ee2i9_eYrbxqzw" value="_si5-ptR_Ee2i9_eYrbxqzw">
+          <correspondenceNode href="../model/java2class_adapted.mltgg#_cZy-cUhkEeyajeTATeOoSg"/>
+        </ruleProductionParameters>
+      </producedBy>
+    </correspondenceNodeDependencies>
+    <correspondenceNodeDependencies uuid="_si5-ptR_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_cZ6TN0hkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-p9R_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cXUSMUhkEeyajeTATeOoSg"/>
+      </producedBy>
+    </correspondenceNodeDependencies>
+  </mltgg.ruleDependencyGraph:RuleDependencyGraph>
+  <mltgg.ruleDependencyGraph:RuleDependencyGraph uuid="_si5-qNR_Ee2i9_eYrbxqzw">
+    <tggRule href="../model/java2class_adapted.mltgg#_cXUSMUhkEeyajeTATeOoSg"/>
+  </mltgg.ruleDependencyGraph:RuleDependencyGraph>
+  <mltgg.ruleDependencyGraph:RuleDependencyGraph uuid="_si5-qdR_Ee2i9_eYrbxqzw">
+    <tggRule href="../model/java2class_adapted.mltgg#_cYBc0EhkEeyajeTATeOoSg"/>
+    <correspondenceNodeDependencies uuid="_si5-qtR_Ee2i9_eYrbxqzw">
+      <correspondenceNode href="../model/java2class_adapted.mltgg#_cZy-cUhkEeyajeTATeOoSg"/>
+      <producedBy uuid="_si5-q9R_Ee2i9_eYrbxqzw">
+        <producingRule href="../model/java2class_adapted.mltgg#_cXUSMUhkEeyajeTATeOoSg"/>
+      </producedBy>
+    </correspondenceNodeDependencies>
+  </mltgg.ruleDependencyGraph:RuleDependencyGraph>
+</xmi:XMI>

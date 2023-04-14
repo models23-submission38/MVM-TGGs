@@ -6,5 +6,5 @@ Installation:
 
 Running
 - the "de.mdelab.migmm.sample.java2class.execute" project contains classes with main methods for experiment execution
-- these classes usually need to be parametrized with at least an input model (available xXhereXx) and a TGG ("de.mdelab.mltgg.java2class/model-gen/config.xmi" for single-version models or "de.mdelab.mltgg.java2class.adapted/model-gen/config.xmi" for multi-version models)
+- these classes usually need to be parametrized with at least an input model (e.g. from the "instances.zip" archive; use "*.history" files for multi-version ("History") experiments and the related directories for single-version ("Vanilla") experiments) and a TGG ("de.mdelab.mltgg.java2class/model-gen/config.xmi" for single-version models or "de.mdelab.mltgg.java2class.adapted/model-gen/config.xmi" for multi-version models)
 - the "de.mdelab.migmm.sample.java2class.tests" project contains tests that validate the transformation and synchronization results of the multi-version implementation against the standard MoTE2 implementation for a sample model
